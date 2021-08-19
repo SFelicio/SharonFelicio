@@ -930,6 +930,9 @@ header .logo:hover{
     }.cv_info #bold_text{
         font-size: 28px;
     }
+    .name{
+        margin-top: -50px;
+    }
 }
 @media screen and (max-width: 361px){
     .hero .greeting .name span{     
